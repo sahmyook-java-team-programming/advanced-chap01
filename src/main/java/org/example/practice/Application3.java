@@ -12,5 +12,8 @@ public class Application3 {
         * -- 출력 예시 --
         * 문자 A와 a의 unicode : A : 97 a : 65
         * */
+
+        char uniA = 'A' , unia = 'a';
+        System.out.println("문자 'A'와 'a'의 unicode : A : " + (int)uniA + " a : " + (int)unia );
     }
 }

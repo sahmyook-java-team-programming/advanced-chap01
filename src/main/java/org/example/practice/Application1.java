@@ -11,5 +11,10 @@ public class Application1 {
         * 나누기한 몫 : 2
         * 나누기한 나머지 : 1
         * */
+
+        int a =9 , b=4;
+        System.out.println("나누기한 몫 : " + (a/b));
+        System.out.println("나누기한 나머지 : " + (a%b));
+
     }
 }
