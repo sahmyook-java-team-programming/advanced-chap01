@@ -14,5 +14,11 @@ public class Application2 {
         * 평균 몸무게 : 67.5
         * */
 
+        int a = 61, b = 66, c = 73, d = 70;
+        int sum = a + b + c + d;
+        float avg = (float)(sum / 4.0);
+        System.out.println("총 몸무게 : " + sum);
+        System.out.println("평균 몸무게 : " + avg);
+
     }
 }
